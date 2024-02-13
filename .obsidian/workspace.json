@@ -6,7 +6,7 @@
       {
         "id": "c2019cd8d9225715",
         "type": "tabs",
-        "dimension": 82.174688057041,
+        "dimension": 81.81818181818181,
         "children": [
           {
             "id": "2d246c3c702df488",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 9 → Level 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "c893981344307074",
         "type": "tabs",
-        "dimension": 17.825311942959,
+        "dimension": 18.18181818181818,
         "children": [
           {
             "id": "7d9c9663035db79d",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 9 → Level 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 0.md",
+                "file": "retos-bandit/Level 9 → Level 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 0.md"
+                "file": "retos-bandit/Level 9 → Level 10.md"
               }
             }
           }
@@ -178,6 +178,16 @@
   "active": "e2f85b06f99c552b",
   "lastOpenFiles": [
     "retos-bandit/plantilla.md",
+    "retos-bandit/Level 9 → Level 10.md",
+    "retos-bandit/Level 8 → Level 9.md",
+    "retos-bandit/Level 7 → Level 8.md",
+    "retos-bandit/Level 6 → Level 7.md",
+    "retos-bandit/Level 5 → Level 6.md",
+    "retos-bandit/Level 3 → Level 4.md",
+    "retos-bandit/Level 4 → Level 5.md",
+    "retos-bandit/Level 2 → Level 3.md",
+    "retos-bandit/Level 1 → Level 2.md",
+    "retos-bandit/Level 0 → Level 1.md",
     "retos-bandit/Level 0.md",
     "Welcome.md",
     "README.md",
