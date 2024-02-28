@@ -8,7 +8,8 @@ bandit17
 VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 ## Solución
 
-
+````
+```
 C:\Users\Chris>ssh -i llave.txt bandit17@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_

@@ -68,5 +68,5 @@ logout
 Connection to bandit.labs.overthewire.org closed.
 
 ## Notas adicionales
-WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+
 ## Referencias

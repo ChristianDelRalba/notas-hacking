@@ -5,7 +5,8 @@ To gain access to the next level, you should use the setuid binary in the homedi
 bandit 19
 whqfNnAbc1naukrpqDYcF95h7HoMTrC
 ## Solución
-
+```
+```
 bandit19@bandit:~$ ls -la
 total 36
 drwxr-xr-x  2 root     root      4096 Oct  5 06:19 .
@@ -17,6 +18,7 @@ drwxr-xr-x 70 root     root      4096 Oct  5 06:20 ..
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 bandit19@bandit:~$
+
 ## Notas adicionales
 
 ## Referencias

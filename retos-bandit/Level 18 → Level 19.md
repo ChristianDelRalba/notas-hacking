@@ -6,7 +6,8 @@ The password for the next level is stored in a file **readme** in the homedire
 bandit18
 hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 ## Solución
-
+````
+```
 FORMA 1:
 C:\Users\Chris>ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
                          _                     _ _ _
