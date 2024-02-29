@@ -4,108 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c2019cd8d9225715",
-        "type": "tabs",
-        "dimension": 82.174688057041,
-        "children": [
-          {
-            "id": "2d246c3c702df488",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2f85b06f99c552b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 9 → Level 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9668c9c36061538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 10 → Level 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57365970e8cb10d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 11 → Level 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99cd8d242c1d31b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 12 → Level 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c9a13301c444255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 17 → Level 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0436b51df73945a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 20 → Level 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
         "id": "c893981344307074",
         "type": "tabs",
-        "dimension": 17.825311942958997,
         "children": [
           {
             "id": "7d9c9663035db79d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -174,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 20 → Level 21.md",
+                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 20 → Level 21.md",
+                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 20 → Level 21.md"
+                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md"
               }
             }
           }
@@ -235,34 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0436b51df73945a6",
+  "active": "7d9c9663035db79d",
   "lastOpenFiles": [
-    "retos-bandit/Untitled.md",
-    "retos-bandit/Level 20 → Level 21.md",
-    "retos-bandit/Level 21 → Level 22.md",
+    "picoCTF/primer-parcial/plantilla 1.md",
+    "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+    "picoCTF/primer-parcial/Parte 3/07-Based.md",
+    "picoCTF/primer-parcial/Parte 3/05-PW Crack 3.md",
+    "picoCTF/primer-parcial/Parte 3/06-runme.py.md",
+    "picoCTF/primer-parcial/Parte 3/04- PW Crack 2.md",
+    "picoCTF/primer-parcial/Parte 3/03-PW Crack 1.md",
+    "picoCTF/primer-parcial/Parte 3/01-fixme2.py.md",
+    "picoCTF/primer-parcial/Parte 3/02-Glitch Cat.md",
+    "picoCTF/primer-parcial/Parte 2/08-what's a net cat.md",
+    "picoCTF/primer-parcial/Parte 3",
+    "picoCTF/primer-parcial/Parte 2/07-strings it.md",
+    "picoCTF/primer-parcial/Parte 2/06-fixme1.py.md",
+    "picoCTF/primer-parcial/Parte 2/05-First Grep.md",
+    "picoCTF/primer-parcial/Parte 2/04-Convertme.py.md",
+    "picoCTF/primer-parcial/Parte 2/03-Codebook.md",
+    "picoCTF/primer-parcial/Parte 2/02-Bases.md",
+    "picoCTF/primer-parcial/Parte 2/01-2Warm.md",
+    "picoCTF/primer-parcial/Parte 2",
+    "picoCTF/primer-parcial/Parte 1",
     "retos-bandit/plantilla.md",
-    "retos-bandit/Level 19 → Level 20.md",
-    "retos-bandit/Level 18 → Level 19.md",
-    "retos-bandit/Level 17 → Level 18.md",
-    "retos-bandit/Level 16 → Level 17.md",
-    "retos-bandit/Level 15 → Level 16.md",
-    "retos-bandit/Level 14 → Level 15.md",
-    "retos-bandit/Level 13 → Level 14.md",
-    "retos-bandit/Level 12 → Level 13.md",
-    "Untitled.md",
-    "retos-bandit/Level 11 → Level 12.md",
-    "retos-bandit/Level 10 → Level 11.md",
-    "retos-bandit/Level 9 → Level 10.md",
-    "retos-bandit/Level 8 → Level 9.md",
-    "retos-bandit/Level 7 → Level 8.md",
-    "retos-bandit/Level 6 → Level 7.md",
-    "retos-bandit/Level 5 → Level 6.md",
-    "retos-bandit/Level 3 → Level 4.md",
-    "retos-bandit/Level 4 → Level 5.md",
-    "retos-bandit/Level 2 → Level 3.md",
-    "retos-bandit/Level 1 → Level 2.md",
-    "retos-bandit/Level 0 → Level 1.md",
-    "retos-bandit/Level 0.md",
+    "picoCTF/primer-parcial/Parte 1/06-Magikarp Ground Mission.md",
+    "picoCTF/primer parcial parte 2",
+    "picoCTF/primer-parcial/Parte 1/05-Tab, Tab, Attack.md",
+    "picoCTF/primer-parcial/Parte 1/01-Obedient Cat.md",
+    "picoCTF/primer-parcial/Parte 1/04-Static ain't always noise.md",
+    "picoCTF/primer-parcial/Parte 1/07-Lets Warm Up.md",
+    "picoCTF/primer-parcial/Parte 1/08-Warmed Up.md",
+    "retos-bandit/Level 33.md",
+    "retos-bandit/Level 32 → Level 33.md",
+    "Pasted image 20240226220851.png",
+    "Untitled",
+    "picoCTF/primer-parcial",
+    "picoCTF",
     "retos-bandit"
   ]
 }
