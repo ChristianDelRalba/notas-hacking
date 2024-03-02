@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c893981344307074",
+        "id": "9b6c8be3d3a1eb33",
         "type": "tabs",
         "children": [
           {
-            "id": "7d9c9663035db79d",
+            "id": "dc5898ba96fce210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+                "file": "Retos-web/Parte 01/06-picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+                "file": "Retos-web/Parte 01/06-picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+                "file": "Retos-web/Parte 01/06-picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 3/08-plumbing.md"
+                "file": "Retos-web/Parte 01/06-picobrowser.md"
               }
             }
           }
@@ -146,10 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d9c9663035db79d",
+  "active": "dc5898ba96fce210",
   "lastOpenFiles": [
-    "picoCTF/primer-parcial/plantilla 1.md",
+    "Retos-web/plantilla 1 1.md",
+    "Retos-web/Parte 01/06-picobrowser.md",
+    "Retos-web/Parte 01/05-Client-side-again.md",
+    "Retos-web/Parte 01/04-Where are the robots.md",
+    "Retos-web/Parte 01/03-logon.md",
+    "Retos-web/Parte 01/02-dont-use-client-side.md",
+    "Retos-web/Parte 01/01-Insp3ct0r.md",
+    "Welcome.md",
+    "Retos-web/Parte 01",
+    "Retos-web",
     "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+    "Untitled.md",
+    "picoCTF/primer-parcial/plantilla 1.md",
     "picoCTF/primer-parcial/Parte 3/07-Based.md",
     "picoCTF/primer-parcial/Parte 3/05-PW Crack 3.md",
     "picoCTF/primer-parcial/Parte 3/06-runme.py.md",
@@ -168,16 +179,7 @@
     "picoCTF/primer-parcial/Parte 2/01-2Warm.md",
     "picoCTF/primer-parcial/Parte 2",
     "picoCTF/primer-parcial/Parte 1",
-    "retos-bandit/plantilla.md",
-    "picoCTF/primer-parcial/Parte 1/06-Magikarp Ground Mission.md",
     "picoCTF/primer parcial parte 2",
-    "picoCTF/primer-parcial/Parte 1/05-Tab, Tab, Attack.md",
-    "picoCTF/primer-parcial/Parte 1/01-Obedient Cat.md",
-    "picoCTF/primer-parcial/Parte 1/04-Static ain't always noise.md",
-    "picoCTF/primer-parcial/Parte 1/07-Lets Warm Up.md",
-    "picoCTF/primer-parcial/Parte 1/08-Warmed Up.md",
-    "retos-bandit/Level 33.md",
-    "retos-bandit/Level 32 → Level 33.md",
     "Pasted image 20240226220851.png",
     "Untitled",
     "picoCTF/primer-parcial",
