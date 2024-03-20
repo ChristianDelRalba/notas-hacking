@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-web/Parte 01/06-picobrowser.md",
+                "file": "retos-forensic/Parte 01/05-What Lies Withing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5
   },
   "right": {
     "id": "5482a474417f2a60",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-web/Parte 01/06-picobrowser.md",
+                "file": "retos-forensic/Parte 01/05-What Lies Withing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-web/Parte 01/06-picobrowser.md",
+                "file": "retos-forensic/Parte 01/05-What Lies Withing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-web/Parte 01/06-picobrowser.md"
+                "file": "retos-forensic/Parte 01/05-What Lies Withing.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "dc5898ba96fce210",
   "lastOpenFiles": [
-    "Retos-web/plantilla 1 1.md",
+    "plantilla 1 1.md",
+    "retos-forensic/Parte 01/05-What Lies Withing.md",
+    "retos-forensic/Parte 01/04-So Meta.md",
+    "retos-forensic/Parte 01/03-shark on wire 1.md",
+    "retos-forensic/Parte 01/02-extensions.md",
+    "Welcome.md",
+    "retos-forensic/Parte 01/01-Glory of the Garden.md",
+    "Retos-web/Parte 03/03- Scavenger Hunt.md",
+    "retos-forensic/parte 03",
+    "retos-forensic/Parte 02",
+    "retos-forensic/Parte 01",
+    "retos-forensic",
+    "Retos-web/Parte 02/04-  JaWT Scratchpad.md",
+    "Retos-web/Parte 02/03- Irish-Name-Repo 3.md",
+    "Retos-web/Parte 02/02- Irish-Name-Repo 2.md",
+    "Retos-web/Parte 02/01- Irish-Name-Repo 1.md",
+    "Retos-web/Parte 03/02 - Cookies.md",
+    "Retos-web/Parte 03/01 - GET aHead.md",
+    "Retos-web/Parte 03",
+    "Retos-web/Parte 02/01-Irish-Name-Repo 1.md",
+    "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
+    "Retos-web/Parte 02/01.md",
+    "Retos-web/Parte 02",
     "Retos-web/Parte 01/06-picobrowser.md",
     "Retos-web/Parte 01/05-Client-side-again.md",
     "Retos-web/Parte 01/04-Where are the robots.md",
     "Retos-web/Parte 01/03-logon.md",
     "Retos-web/Parte 01/02-dont-use-client-side.md",
     "Retos-web/Parte 01/01-Insp3ct0r.md",
-    "Welcome.md",
     "Retos-web/Parte 01",
     "Retos-web",
-    "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
     "Untitled.md",
     "picoCTF/primer-parcial/plantilla 1.md",
     "picoCTF/primer-parcial/Parte 3/07-Based.md",
-    "picoCTF/primer-parcial/Parte 3/05-PW Crack 3.md",
-    "picoCTF/primer-parcial/Parte 3/06-runme.py.md",
-    "picoCTF/primer-parcial/Parte 3/04- PW Crack 2.md",
-    "picoCTF/primer-parcial/Parte 3/03-PW Crack 1.md",
-    "picoCTF/primer-parcial/Parte 3/01-fixme2.py.md",
-    "picoCTF/primer-parcial/Parte 3/02-Glitch Cat.md",
-    "picoCTF/primer-parcial/Parte 2/08-what's a net cat.md",
     "picoCTF/primer-parcial/Parte 3",
-    "picoCTF/primer-parcial/Parte 2/07-strings it.md",
-    "picoCTF/primer-parcial/Parte 2/06-fixme1.py.md",
-    "picoCTF/primer-parcial/Parte 2/05-First Grep.md",
-    "picoCTF/primer-parcial/Parte 2/04-Convertme.py.md",
-    "picoCTF/primer-parcial/Parte 2/03-Codebook.md",
-    "picoCTF/primer-parcial/Parte 2/02-Bases.md",
-    "picoCTF/primer-parcial/Parte 2/01-2Warm.md",
     "picoCTF/primer-parcial/Parte 2",
-    "picoCTF/primer-parcial/Parte 1",
-    "picoCTF/primer parcial parte 2",
-    "Pasted image 20240226220851.png",
-    "Untitled",
-    "picoCTF/primer-parcial",
-    "picoCTF",
-    "retos-bandit"
+    "Pasted image 20240226220851.png"
   ]
 }
