@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-forensic/Parte 01/05-What Lies Withing.md",
+                "file": "retos-forensic/Parte 02/01-m00nwalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-forensic/Parte 01/05-What Lies Withing.md",
+                "file": "retos-forensic/Parte 02/01-m00nwalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-forensic/Parte 01/05-What Lies Withing.md",
+                "file": "retos-forensic/Parte 02/01-m00nwalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-forensic/Parte 01/05-What Lies Withing.md"
+                "file": "retos-forensic/Parte 02/01-m00nwalk.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,19 @@
   },
   "active": "dc5898ba96fce210",
   "lastOpenFiles": [
+    "ConcursoCTF/binhexa.md",
+    "ConcursoCTF/endianness.md",
+    "ConcursoCTF/Scan Surprise.md",
+    "ConcursoCTF/03-Time Machine.md",
+    "ConcursoCTF/02-Commitment Issues.md",
+    "ConcursoCTF/01-Super SSH.md",
+    "ConcursoCTF/05-Collaborative Development.md",
+    "ConcursoCTF/04-Blame Game.md",
+    "ConcursoCTF",
+    "Nueva carpeta",
     "plantilla 1 1.md",
+    "retos-forensic/Parte 02/01-m00nwalk.md",
+    "retos-forensic/Parte 02/03-c0rrupt.md",
     "retos-forensic/Parte 01/05-What Lies Withing.md",
     "retos-forensic/Parte 01/04-So Meta.md",
     "retos-forensic/Parte 01/03-shark on wire 1.md",
@@ -169,21 +180,9 @@
     "Retos-web/Parte 03",
     "Retos-web/Parte 02/01-Irish-Name-Repo 1.md",
     "picoCTF/primer-parcial/Parte 3/08-plumbing.md",
-    "Retos-web/Parte 02/01.md",
     "Retos-web/Parte 02",
-    "Retos-web/Parte 01/06-picobrowser.md",
-    "Retos-web/Parte 01/05-Client-side-again.md",
-    "Retos-web/Parte 01/04-Where are the robots.md",
-    "Retos-web/Parte 01/03-logon.md",
-    "Retos-web/Parte 01/02-dont-use-client-side.md",
-    "Retos-web/Parte 01/01-Insp3ct0r.md",
     "Retos-web/Parte 01",
     "Retos-web",
-    "Untitled.md",
-    "picoCTF/primer-parcial/plantilla 1.md",
-    "picoCTF/primer-parcial/Parte 3/07-Based.md",
-    "picoCTF/primer-parcial/Parte 3",
-    "picoCTF/primer-parcial/Parte 2",
     "Pasted image 20240226220851.png"
   ]
 }
